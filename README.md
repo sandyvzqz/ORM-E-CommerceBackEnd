@@ -3,9 +3,6 @@
 ## Week 13 module challenge 
 
 ### Table of Contents
-- [ORM E-commerce BackEnd](#orm-e-commerce-backend)
-  - [Week 13 module challenge](#week-13-module-challenge)
-    - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
