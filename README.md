@@ -29,7 +29,7 @@ This app allows you to create, read, update, and delete data from a database usi
 
 ## Demo 
 This is a video demonstrating the functionality of the finished app. 
-[DemoVideo link] (https://drive.google.com/file/d/1BxGj_iqkpW4L0N4mel84UQ0eXI-yThDH/view?usp=drive_link)
+[DemoVideo link](https://drive.google.com/file/d/1BxGj_iqkpW4L0N4mel84UQ0eXI-yThDH/view?usp=drive_link)
 
 
 
